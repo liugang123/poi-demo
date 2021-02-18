@@ -24,7 +24,6 @@ public class CreateWordDocument {
         document.write(out);
 
         out.close();
-
         System.out.println("Create First Word Document");
     }
 }
